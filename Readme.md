@@ -1,0 +1,15 @@
+93a5f3e7dfc58edc21d7bc7a6c9eeaab  Guizao_475.plot_polymerreads.png
+09fc8dc7d26a796e12048f3c25714e78  Guizao_475.plot_polymerreads.svg
+f2a6fecf0aef366dea7f9d4dbe9b0b53  Guizao_475.polymerreads_dis.xls
+10140b1c7e2fef1533b38c6ca07a25b2  Guizao_475.polymerreads.stat
+75e1d8b83ad1f32847499e0968312954  Guizao_475_subreads_dis.subreads.png
+5db2ad47bad281a833d9e11b28cc2a06  Guizao_475_subreads_dis.subreads_quality.png
+7c40bb7e48ddb60320b74d06ab5c060a  Guizao_475_subreads_dis.subreads_quality.svg
+45f2e1dd1969f7ba086bbfc452b64620  Guizao_475_subreads_dis.subreads.svg
+52ab07a2bb52a045d4905e9ca0d13f79  Guizao_475_subreads_dis.xls
+43f95f080d41c6b9c9868a1de8859ef4  Guizao_475.subreads.stat.xls
+406744e522d4c44bde95a6f7c1c6977b  Guizao.Guizao_475.subreads.fasta.gz
+13be65fba5777ec816adc0fad57e30f2  Guizao.Guizao_475.subreads.fastq.gz
+2d68691c0b6873ade5a7d63b822912d7  plot_polymerreads.R
+a1fbcf068e7841065aefcb9256082b94  plot_subreads_quality.R
+0a0407b6e4740930641fea56e408ad6a  plot_subreads.R
