@@ -1,4 +1,3 @@
-93a5f3e7dfc58edc21d7bc7a6c9eeaab  Guizao_475.plot_polymerreads.png
 09fc8dc7d26a796e12048f3c25714e78  Guizao_475.plot_polymerreads.svg
 f2a6fecf0aef366dea7f9d4dbe9b0b53  Guizao_475.polymerreads_dis.xls
 10140b1c7e2fef1533b38c6ca07a25b2  Guizao_475.polymerreads.stat
